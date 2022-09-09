@@ -7,7 +7,7 @@
 -Thanh Toán PayPal,
 -Cập nhật thông tin
 
-\*Chức năng Admin : admin@example.com (123456)
+\*Chức năng Admin :
 -Quản lý sản phẩm,
 -Quản lý người dùng,
 -Quản lý đơn hàng
@@ -30,3 +30,6 @@ Quy trình thanh toán (giao hàng, phương thức thanh toán, v.v.)
 Đánh dấu đơn đặt hàng là tùy chọn đã giao
 
 Cơ sở dữ liệu
+
+tk paypal : sb-k8mnl20489112@personal.example.com
+password : k&8AL;+L

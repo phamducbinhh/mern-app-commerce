@@ -9,7 +9,7 @@ const Category = () => {
     UseHookSearchData();
   return (
     <Fragment>
-      <div className="mb-4">
+      <div className="mb-4 capitalize">
         <h5 className="font-semibold">Danh Mục</h5>
         <ul>
           <li className="mb-2 text-sm font-medium">

@@ -245,11 +245,11 @@ const ProductEditPage = () => {
             ></Input>
           </Field>
           <Field>
-            <Label htmlFor="Description">Description</Label>
+            <Label htmlFor="Description">Mô tả</Label>
             <Input
               name="description"
               type="text"
-              placeholder="Enter your Description"
+              placeholder="Mô tả"
               control={control}
               required
             ></Input>

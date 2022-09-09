@@ -15,6 +15,7 @@ const InputStyles = styled.div`
     transition: all 0.2s linear;
     border: 1px solid transparent;
     outline: none;
+    text-transform: capitalize;
   }
   input:focus {
     background-color: white;
