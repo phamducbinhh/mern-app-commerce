@@ -89,7 +89,7 @@ const ProductEditPage = () => {
       dispatch({ type: "UPDATE_REQUEST" });
       //sử dụng method put để cập nhật lại api
       await axios.put(
-        `/api/products/${productId}`,
+        `${ApiEndPoint}/api/products/${productId}`,
         {
           name,
           slug,
